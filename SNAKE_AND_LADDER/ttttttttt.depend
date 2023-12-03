@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1688851127 source:d:\me\new folder\ttttttttt\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
+1688851827 source:d:\me\new folder\snake_and_ladder\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
+1688884232 source:c:\users\blue sky\desktop\snake_and_ladder\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
